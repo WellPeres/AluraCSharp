@@ -1,0 +1,15 @@
+C:\suporte\alura\CursoAluraCSharp\4-ConversoesEOutrosTipos\bin\Debug\net6.0\4-ConversoesEOutrosTipos.exe
+C:\suporte\alura\CursoAluraCSharp\4-ConversoesEOutrosTipos\bin\Debug\net6.0\4-ConversoesEOutrosTipos.deps.json
+C:\suporte\alura\CursoAluraCSharp\4-ConversoesEOutrosTipos\bin\Debug\net6.0\4-ConversoesEOutrosTipos.runtimeconfig.json
+C:\suporte\alura\CursoAluraCSharp\4-ConversoesEOutrosTipos\bin\Debug\net6.0\4-ConversoesEOutrosTipos.dll
+C:\suporte\alura\CursoAluraCSharp\4-ConversoesEOutrosTipos\bin\Debug\net6.0\4-ConversoesEOutrosTipos.pdb
+C:\suporte\alura\CursoAluraCSharp\4-ConversoesEOutrosTipos\obj\Debug\net6.0\4-ConversoesEOutrosTipos.csproj.AssemblyReference.cache
+C:\suporte\alura\CursoAluraCSharp\4-ConversoesEOutrosTipos\obj\Debug\net6.0\4-ConversoesEOutrosTipos.GeneratedMSBuildEditorConfig.editorconfig
+C:\suporte\alura\CursoAluraCSharp\4-ConversoesEOutrosTipos\obj\Debug\net6.0\4-ConversoesEOutrosTipos.AssemblyInfoInputs.cache
+C:\suporte\alura\CursoAluraCSharp\4-ConversoesEOutrosTipos\obj\Debug\net6.0\4-ConversoesEOutrosTipos.AssemblyInfo.cs
+C:\suporte\alura\CursoAluraCSharp\4-ConversoesEOutrosTipos\obj\Debug\net6.0\4-ConversoesEOutrosTipos.csproj.CoreCompileInputs.cache
+C:\suporte\alura\CursoAluraCSharp\4-ConversoesEOutrosTipos\obj\Debug\net6.0\4-ConversoesEOutrosTipos.dll
+C:\suporte\alura\CursoAluraCSharp\4-ConversoesEOutrosTipos\obj\Debug\net6.0\refint\4-ConversoesEOutrosTipos.dll
+C:\suporte\alura\CursoAluraCSharp\4-ConversoesEOutrosTipos\obj\Debug\net6.0\4-ConversoesEOutrosTipos.pdb
+C:\suporte\alura\CursoAluraCSharp\4-ConversoesEOutrosTipos\obj\Debug\net6.0\4-ConversoesEOutrosTipos.genruntimeconfig.cache
+C:\suporte\alura\CursoAluraCSharp\4-ConversoesEOutrosTipos\obj\Debug\net6.0\ref\4-ConversoesEOutrosTipos.dll

@@ -1,0 +1,15 @@
+C:\suporte\alura\CursoAluraCSharp\CriandoVariaveisTipoFloat\bin\Debug\net6.0\CriandoVariaveisTipoFloat.exe
+C:\suporte\alura\CursoAluraCSharp\CriandoVariaveisTipoFloat\bin\Debug\net6.0\CriandoVariaveisTipoFloat.deps.json
+C:\suporte\alura\CursoAluraCSharp\CriandoVariaveisTipoFloat\bin\Debug\net6.0\CriandoVariaveisTipoFloat.runtimeconfig.json
+C:\suporte\alura\CursoAluraCSharp\CriandoVariaveisTipoFloat\bin\Debug\net6.0\CriandoVariaveisTipoFloat.dll
+C:\suporte\alura\CursoAluraCSharp\CriandoVariaveisTipoFloat\bin\Debug\net6.0\CriandoVariaveisTipoFloat.pdb
+C:\suporte\alura\CursoAluraCSharp\CriandoVariaveisTipoFloat\obj\Debug\net6.0\CriandoVariaveisTipoFloat.csproj.AssemblyReference.cache
+C:\suporte\alura\CursoAluraCSharp\CriandoVariaveisTipoFloat\obj\Debug\net6.0\CriandoVariaveisTipoFloat.GeneratedMSBuildEditorConfig.editorconfig
+C:\suporte\alura\CursoAluraCSharp\CriandoVariaveisTipoFloat\obj\Debug\net6.0\CriandoVariaveisTipoFloat.AssemblyInfoInputs.cache
+C:\suporte\alura\CursoAluraCSharp\CriandoVariaveisTipoFloat\obj\Debug\net6.0\CriandoVariaveisTipoFloat.AssemblyInfo.cs
+C:\suporte\alura\CursoAluraCSharp\CriandoVariaveisTipoFloat\obj\Debug\net6.0\CriandoVariaveisTipoFloat.csproj.CoreCompileInputs.cache
+C:\suporte\alura\CursoAluraCSharp\CriandoVariaveisTipoFloat\obj\Debug\net6.0\CriandoVariaveisTipoFloat.dll
+C:\suporte\alura\CursoAluraCSharp\CriandoVariaveisTipoFloat\obj\Debug\net6.0\refint\CriandoVariaveisTipoFloat.dll
+C:\suporte\alura\CursoAluraCSharp\CriandoVariaveisTipoFloat\obj\Debug\net6.0\CriandoVariaveisTipoFloat.pdb
+C:\suporte\alura\CursoAluraCSharp\CriandoVariaveisTipoFloat\obj\Debug\net6.0\CriandoVariaveisTipoFloat.genruntimeconfig.cache
+C:\suporte\alura\CursoAluraCSharp\CriandoVariaveisTipoFloat\obj\Debug\net6.0\ref\CriandoVariaveisTipoFloat.dll
