@@ -1,0 +1,15 @@
+/home/wellinton/AulasAlura.NET/AluraCSharp/P11-CalculaPoupanca/bin/Debug/net6.0/P11-CalculaPoupanca
+/home/wellinton/AulasAlura.NET/AluraCSharp/P11-CalculaPoupanca/bin/Debug/net6.0/P11-CalculaPoupanca.deps.json
+/home/wellinton/AulasAlura.NET/AluraCSharp/P11-CalculaPoupanca/bin/Debug/net6.0/P11-CalculaPoupanca.runtimeconfig.json
+/home/wellinton/AulasAlura.NET/AluraCSharp/P11-CalculaPoupanca/bin/Debug/net6.0/P11-CalculaPoupanca.dll
+/home/wellinton/AulasAlura.NET/AluraCSharp/P11-CalculaPoupanca/bin/Debug/net6.0/ref/P11-CalculaPoupanca.dll
+/home/wellinton/AulasAlura.NET/AluraCSharp/P11-CalculaPoupanca/bin/Debug/net6.0/P11-CalculaPoupanca.pdb
+/home/wellinton/AulasAlura.NET/AluraCSharp/P11-CalculaPoupanca/obj/Debug/net6.0/P11-CalculaPoupanca.csproj.AssemblyReference.cache
+/home/wellinton/AulasAlura.NET/AluraCSharp/P11-CalculaPoupanca/obj/Debug/net6.0/P11-CalculaPoupanca.GeneratedMSBuildEditorConfig.editorconfig
+/home/wellinton/AulasAlura.NET/AluraCSharp/P11-CalculaPoupanca/obj/Debug/net6.0/P11-CalculaPoupanca.AssemblyInfoInputs.cache
+/home/wellinton/AulasAlura.NET/AluraCSharp/P11-CalculaPoupanca/obj/Debug/net6.0/P11-CalculaPoupanca.AssemblyInfo.cs
+/home/wellinton/AulasAlura.NET/AluraCSharp/P11-CalculaPoupanca/obj/Debug/net6.0/P11-CalculaPoupanca.csproj.CoreCompileInputs.cache
+/home/wellinton/AulasAlura.NET/AluraCSharp/P11-CalculaPoupanca/obj/Debug/net6.0/P11-CalculaPoupanca.dll
+/home/wellinton/AulasAlura.NET/AluraCSharp/P11-CalculaPoupanca/obj/Debug/net6.0/ref/P11-CalculaPoupanca.dll
+/home/wellinton/AulasAlura.NET/AluraCSharp/P11-CalculaPoupanca/obj/Debug/net6.0/P11-CalculaPoupanca.pdb
+/home/wellinton/AulasAlura.NET/AluraCSharp/P11-CalculaPoupanca/obj/Debug/net6.0/P11-CalculaPoupanca.genruntimeconfig.cache

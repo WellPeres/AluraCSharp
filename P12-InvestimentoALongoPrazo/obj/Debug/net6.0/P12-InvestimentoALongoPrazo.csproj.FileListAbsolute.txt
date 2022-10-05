@@ -1,0 +1,15 @@
+/home/wellinton/AulasAlura.NET/AluraCSharp/P12-InvestimentoALongoPrazo/bin/Debug/net6.0/P12-InvestimentoALongoPrazo
+/home/wellinton/AulasAlura.NET/AluraCSharp/P12-InvestimentoALongoPrazo/bin/Debug/net6.0/P12-InvestimentoALongoPrazo.deps.json
+/home/wellinton/AulasAlura.NET/AluraCSharp/P12-InvestimentoALongoPrazo/bin/Debug/net6.0/P12-InvestimentoALongoPrazo.runtimeconfig.json
+/home/wellinton/AulasAlura.NET/AluraCSharp/P12-InvestimentoALongoPrazo/bin/Debug/net6.0/P12-InvestimentoALongoPrazo.dll
+/home/wellinton/AulasAlura.NET/AluraCSharp/P12-InvestimentoALongoPrazo/bin/Debug/net6.0/ref/P12-InvestimentoALongoPrazo.dll
+/home/wellinton/AulasAlura.NET/AluraCSharp/P12-InvestimentoALongoPrazo/bin/Debug/net6.0/P12-InvestimentoALongoPrazo.pdb
+/home/wellinton/AulasAlura.NET/AluraCSharp/P12-InvestimentoALongoPrazo/obj/Debug/net6.0/P12-InvestimentoALongoPrazo.csproj.AssemblyReference.cache
+/home/wellinton/AulasAlura.NET/AluraCSharp/P12-InvestimentoALongoPrazo/obj/Debug/net6.0/P12-InvestimentoALongoPrazo.GeneratedMSBuildEditorConfig.editorconfig
+/home/wellinton/AulasAlura.NET/AluraCSharp/P12-InvestimentoALongoPrazo/obj/Debug/net6.0/P12-InvestimentoALongoPrazo.AssemblyInfoInputs.cache
+/home/wellinton/AulasAlura.NET/AluraCSharp/P12-InvestimentoALongoPrazo/obj/Debug/net6.0/P12-InvestimentoALongoPrazo.AssemblyInfo.cs
+/home/wellinton/AulasAlura.NET/AluraCSharp/P12-InvestimentoALongoPrazo/obj/Debug/net6.0/P12-InvestimentoALongoPrazo.csproj.CoreCompileInputs.cache
+/home/wellinton/AulasAlura.NET/AluraCSharp/P12-InvestimentoALongoPrazo/obj/Debug/net6.0/P12-InvestimentoALongoPrazo.dll
+/home/wellinton/AulasAlura.NET/AluraCSharp/P12-InvestimentoALongoPrazo/obj/Debug/net6.0/ref/P12-InvestimentoALongoPrazo.dll
+/home/wellinton/AulasAlura.NET/AluraCSharp/P12-InvestimentoALongoPrazo/obj/Debug/net6.0/P12-InvestimentoALongoPrazo.pdb
+/home/wellinton/AulasAlura.NET/AluraCSharp/P12-InvestimentoALongoPrazo/obj/Debug/net6.0/P12-InvestimentoALongoPrazo.genruntimeconfig.cache

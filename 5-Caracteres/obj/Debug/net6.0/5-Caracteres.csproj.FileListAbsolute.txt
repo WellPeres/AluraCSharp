@@ -1,0 +1,15 @@
+/home/wellinton/AulasAlura.NET/AluraCSharp/5-Caracteres/bin/Debug/net6.0/5-Caracteres
+/home/wellinton/AulasAlura.NET/AluraCSharp/5-Caracteres/bin/Debug/net6.0/5-Caracteres.deps.json
+/home/wellinton/AulasAlura.NET/AluraCSharp/5-Caracteres/bin/Debug/net6.0/5-Caracteres.runtimeconfig.json
+/home/wellinton/AulasAlura.NET/AluraCSharp/5-Caracteres/bin/Debug/net6.0/5-Caracteres.dll
+/home/wellinton/AulasAlura.NET/AluraCSharp/5-Caracteres/bin/Debug/net6.0/ref/5-Caracteres.dll
+/home/wellinton/AulasAlura.NET/AluraCSharp/5-Caracteres/bin/Debug/net6.0/5-Caracteres.pdb
+/home/wellinton/AulasAlura.NET/AluraCSharp/5-Caracteres/obj/Debug/net6.0/5-Caracteres.csproj.AssemblyReference.cache
+/home/wellinton/AulasAlura.NET/AluraCSharp/5-Caracteres/obj/Debug/net6.0/5-Caracteres.GeneratedMSBuildEditorConfig.editorconfig
+/home/wellinton/AulasAlura.NET/AluraCSharp/5-Caracteres/obj/Debug/net6.0/5-Caracteres.AssemblyInfoInputs.cache
+/home/wellinton/AulasAlura.NET/AluraCSharp/5-Caracteres/obj/Debug/net6.0/5-Caracteres.AssemblyInfo.cs
+/home/wellinton/AulasAlura.NET/AluraCSharp/5-Caracteres/obj/Debug/net6.0/5-Caracteres.csproj.CoreCompileInputs.cache
+/home/wellinton/AulasAlura.NET/AluraCSharp/5-Caracteres/obj/Debug/net6.0/5-Caracteres.dll
+/home/wellinton/AulasAlura.NET/AluraCSharp/5-Caracteres/obj/Debug/net6.0/ref/5-Caracteres.dll
+/home/wellinton/AulasAlura.NET/AluraCSharp/5-Caracteres/obj/Debug/net6.0/5-Caracteres.pdb
+/home/wellinton/AulasAlura.NET/AluraCSharp/5-Caracteres/obj/Debug/net6.0/5-Caracteres.genruntimeconfig.cache

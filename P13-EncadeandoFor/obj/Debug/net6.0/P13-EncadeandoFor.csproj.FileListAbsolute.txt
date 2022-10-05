@@ -1,0 +1,15 @@
+/home/wellinton/AulasAlura.NET/AluraCSharp/P13-EncadeandoFor/bin/Debug/net6.0/P13-EncadeandoFor
+/home/wellinton/AulasAlura.NET/AluraCSharp/P13-EncadeandoFor/bin/Debug/net6.0/P13-EncadeandoFor.deps.json
+/home/wellinton/AulasAlura.NET/AluraCSharp/P13-EncadeandoFor/bin/Debug/net6.0/P13-EncadeandoFor.runtimeconfig.json
+/home/wellinton/AulasAlura.NET/AluraCSharp/P13-EncadeandoFor/bin/Debug/net6.0/P13-EncadeandoFor.dll
+/home/wellinton/AulasAlura.NET/AluraCSharp/P13-EncadeandoFor/bin/Debug/net6.0/ref/P13-EncadeandoFor.dll
+/home/wellinton/AulasAlura.NET/AluraCSharp/P13-EncadeandoFor/bin/Debug/net6.0/P13-EncadeandoFor.pdb
+/home/wellinton/AulasAlura.NET/AluraCSharp/P13-EncadeandoFor/obj/Debug/net6.0/P13-EncadeandoFor.csproj.AssemblyReference.cache
+/home/wellinton/AulasAlura.NET/AluraCSharp/P13-EncadeandoFor/obj/Debug/net6.0/P13-EncadeandoFor.GeneratedMSBuildEditorConfig.editorconfig
+/home/wellinton/AulasAlura.NET/AluraCSharp/P13-EncadeandoFor/obj/Debug/net6.0/P13-EncadeandoFor.AssemblyInfoInputs.cache
+/home/wellinton/AulasAlura.NET/AluraCSharp/P13-EncadeandoFor/obj/Debug/net6.0/P13-EncadeandoFor.AssemblyInfo.cs
+/home/wellinton/AulasAlura.NET/AluraCSharp/P13-EncadeandoFor/obj/Debug/net6.0/P13-EncadeandoFor.csproj.CoreCompileInputs.cache
+/home/wellinton/AulasAlura.NET/AluraCSharp/P13-EncadeandoFor/obj/Debug/net6.0/P13-EncadeandoFor.dll
+/home/wellinton/AulasAlura.NET/AluraCSharp/P13-EncadeandoFor/obj/Debug/net6.0/ref/P13-EncadeandoFor.dll
+/home/wellinton/AulasAlura.NET/AluraCSharp/P13-EncadeandoFor/obj/Debug/net6.0/P13-EncadeandoFor.pdb
+/home/wellinton/AulasAlura.NET/AluraCSharp/P13-EncadeandoFor/obj/Debug/net6.0/P13-EncadeandoFor.genruntimeconfig.cache
